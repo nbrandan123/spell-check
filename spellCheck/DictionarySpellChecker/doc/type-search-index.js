@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"newsom","l":"Dictionary"},{"p":"newsom","l":"Main"},{"p":"newsom","l":"Node"}];updateSearchResults();
